@@ -1,10 +1,16 @@
 _repo: The-Philosophy-Which-Shows-the-Physiology-of-Mesmerism-and-Explains-the-Phenomenon-of-Clairvo__50170
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50170-h/images/phil_mesmer_cover.jpg
 creator:
   author:
     agent_name: Pasley, T. H.
     gutenberg_agent_id: '45732'
     url: http://www.gutenberg.org/2009/agents/45732
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50170#The-Philosophy-Which-Shows-the-Physiology-of-Mesmerism-and-Explains-the-Phenomenon-of-Clairvo_
 gutenberg_issued: '2015-10-10'
 gutenberg_type: Text
 identifiers:
